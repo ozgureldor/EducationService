@@ -27,7 +27,7 @@ namespace EducationService.Controllers
         {
             var educations = new List<Education>{
                 new Education{Id="1",Title="IOT Programming",Price=79.99},
-                new Education{Id="2",Title="Rabbit MQ",Price=270.00},
+                new Education{Id="2",Title="Rabbit MQ",Price=274.00},
             //    new Education{Id="3",Title="Micro services",Price=90.99},
                 
             };
