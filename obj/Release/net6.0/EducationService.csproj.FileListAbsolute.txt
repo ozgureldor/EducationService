@@ -45,3 +45,8 @@
 /Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/appsettings.json
 /Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/EducationService.deps.json
 /Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/EducationService.runtimeconfig.json
+/Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/out/web.config
+/Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/out/appsettings.Development.json
+/Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/out/appsettings.json
+/Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/out/EducationService.deps.json
+/Users/salgincio/dev/Microservices/EducationService/bin/Release/net6.0/out/out/out/out/out/EducationService.runtimeconfig.json
