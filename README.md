@@ -4,7 +4,6 @@ Simply demonstration an service provides education detail and  available educati
 
 in appsettings this defines that app will use port 9981
 
-
  "Kestrel": {
     "Endpoints": {
       "Http": {
