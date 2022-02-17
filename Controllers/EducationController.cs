@@ -29,6 +29,7 @@ namespace EducationService.Controllers
                 new Education{Id="1",Title="IOT Programming",Price=79.99},
                 new Education{Id="2",Title="Rabbit MQ",Price=274.00},
                  new Education{Id="2",Title=".net Core  ",Price=174.00},
+                    new Education{Id="2",Title=".net Core 2.0 ",Price=174.00},
             //    new Education{Id="3",Title="Micro services",Price=90.99},
                 
             };
